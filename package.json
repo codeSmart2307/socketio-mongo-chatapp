@@ -1,0 +1,24 @@
+{
+  "name": "socketio-mongo-chatapp",
+  "version": "1.0.0",
+  "description": "Web Chat Application made using Socket.io and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeSmart2307/socketio-mongo-chatapp.git"
+  },
+  "author": "Raneesh Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeSmart2307/socketio-mongo-chatapp/issues"
+  },
+  "homepage": "https://github.com/codeSmart2307/socketio-mongo-chatapp#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "nodemon": "^1.15.1",
+    "socket.io": "^2.0.4"
+  }
+}
